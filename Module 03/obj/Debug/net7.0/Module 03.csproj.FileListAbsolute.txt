@@ -1,0 +1,33 @@
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\appsettings.Development.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\appsettings.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Module 03.exe
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Module 03.deps.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Module 03.runtimeconfig.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Module 03.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Module 03.pdb
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.csproj.AssemblyReference.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.AssemblyInfoInputs.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.AssemblyInfo.cs
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.csproj.CoreCompileInputs.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets\msbuild.Module 03.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets\msbuild.build.Module 03.props
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Module 03.props
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Module 03.props
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets.build.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\staticwebassets.development.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\scopedcss\bundle\Module 03.styles.css
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.csproj.CopyComplete
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\refint\Module 03.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.pdb
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\Module 03.genruntimeconfig.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 03\obj\Debug\net7.0\ref\Module 03.dll
