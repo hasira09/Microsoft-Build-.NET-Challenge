@@ -1,0 +1,7 @@
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\AlpineSkiHouse.exe
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\AlpineSkiHouse.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\AlpineSkiHouse.deps.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 04\AlpineSkiHouse\obj\Release\net7.0\PubTmp\Out\AlpineSkiHouse.pdb
