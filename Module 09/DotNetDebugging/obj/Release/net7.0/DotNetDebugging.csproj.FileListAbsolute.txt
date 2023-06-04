@@ -1,0 +1,15 @@
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.exe
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.deps.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.runtimeconfig.json
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.pdb
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfo.cs
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\refint\DotNetDebugging.dll
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.pdb
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.genruntimeconfig.cache
+D:\C# Programs\Microsoft-Build-.NET-Challenge\Module 09\DotNetDebugging\obj\Release\net7.0\ref\DotNetDebugging.dll
